@@ -1,0 +1,11 @@
+C:\Users\Pelle\source\repos\MonoTestApp\MonoTestApp\bin\Release\MonoTestApp.exe.config
+C:\Users\Pelle\source\repos\MonoTestApp\MonoTestApp\bin\Release\MonoTestApp.exe
+C:\Users\Pelle\source\repos\MonoTestApp\MonoTestApp\bin\Release\MonoTestApp.pdb
+C:\Users\Pelle\source\repos\MonoTestApp\MonoTestApp\obj\Release\MonoTestApp.csproj.CoreCompileInputs.cache
+C:\Users\Pelle\source\repos\MonoTestApp\MonoTestApp\obj\Release\MonoTestApp.exe
+C:\Users\Pelle\source\repos\MonoTestApp\MonoTestApp\obj\Release\MonoTestApp.pdb
+C:\Users\Pelle\source\repos\MonoTestApp\MonoTestApp\bin\Release\MonoTestApp.exe.manifest
+C:\Users\Pelle\source\repos\MonoTestApp\MonoTestApp\bin\Release\MonoTestApp.application
+C:\Users\Pelle\source\repos\MonoTestApp\MonoTestApp\obj\Release\MonoTestApp.csprojResolveAssemblyReference.cache
+C:\Users\Pelle\source\repos\MonoTestApp\MonoTestApp\obj\Release\MonoTestApp.exe.manifest
+C:\Users\Pelle\source\repos\MonoTestApp\MonoTestApp\obj\Release\MonoTestApp.application

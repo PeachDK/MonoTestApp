@@ -1,0 +1,7 @@
+C:\Users\Pelle\source\repos\MonoTestApp\MonoTestApp\bin\Debug\MonoTestApp.exe.config
+C:\Users\Pelle\source\repos\MonoTestApp\MonoTestApp\bin\Debug\MonoTestApp.exe
+C:\Users\Pelle\source\repos\MonoTestApp\MonoTestApp\bin\Debug\MonoTestApp.pdb
+C:\Users\Pelle\source\repos\MonoTestApp\MonoTestApp\obj\Debug\MonoTestApp.csprojResolveAssemblyReference.cache
+C:\Users\Pelle\source\repos\MonoTestApp\MonoTestApp\obj\Debug\MonoTestApp.csproj.CoreCompileInputs.cache
+C:\Users\Pelle\source\repos\MonoTestApp\MonoTestApp\obj\Debug\MonoTestApp.exe
+C:\Users\Pelle\source\repos\MonoTestApp\MonoTestApp\obj\Debug\MonoTestApp.pdb
