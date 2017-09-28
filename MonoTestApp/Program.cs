@@ -10,6 +10,12 @@ namespace MonoTestApp
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Enter Your Name pls");
+            string name = Console.ReadLine();
+            Console.WriteLine("Hi " + name);
+            Console.ReadKey();
+
+
         }
     }
 }
